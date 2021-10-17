@@ -1,0 +1,15 @@
+.header {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+.content {
+  padding: 0 50px;
+  margin-top: 64px;
+}
+
+.content-div {
+  padding: 24px !important;
+  min-height: 550px !important;
+}
